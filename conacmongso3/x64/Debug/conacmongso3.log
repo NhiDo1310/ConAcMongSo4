@@ -1,0 +1,5 @@
+﻿  conacmongso3.cpp
+D:\NNLT\test\conacmongso3\conacmongso3.cpp(297,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NNLT\test\conacmongso3\conacmongso3.cpp(329,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NNLT\test\conacmongso3\conacmongso3.cpp(276,7): warning C4101: 'i': unreferenced local variable
+  conacmongso3.vcxproj -> D:\NNLT\test\conacmongso3\x64\Debug\conacmongso3.exe
